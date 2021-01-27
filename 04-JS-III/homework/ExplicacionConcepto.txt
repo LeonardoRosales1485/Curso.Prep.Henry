@@ -1,0 +1,4 @@
+Arrays
+Del inglés "arreglos", son un tipo de variable que almacena una lista de elementos que pueden estar ordenados o no. Se escribe igual que otras variables pero al momento de asignar los datos, estos deben ir entre corchetes [] y separados por una coma. Pueden contener cualquier otro tipo de dato, valores de verdad y funciones como así tambien otro/s arrays
+
+var arreglo = [1, 2, 4, 'hola', funcion(), null];

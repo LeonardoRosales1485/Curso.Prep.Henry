@@ -1,0 +1,16 @@
+for
+Es una función de JavaScript que permite repetir lineas de código una y otra vez hasta que se cumpla una condicion de frenado. Una funcion for esta compuesta por una variable de conteo, que generalmente es "i", la condición de frenado que es el valor al que i debe llegar luego de cada ejecución del código y por último el incremento que sufre la variable de conteo cada vez que el código es ejecutado. Un ejemplo de for es:
+
+for (var i = 0; i<=10 ; i++){
+	// código a ejecutar
+}
+
+
+&&, ||, !
+Son operadores lógicos típicamente usados para expresar una condición en una función. Estos operadores lógicos devuelven "true" o "false" dependiendo la tabla de valores, tabla que determina las verdades en la lógica que usan los programas.
+
+&& es el operador lógico "y" e indica que la condicion que está antes y después de este operador deben cumplirse ambas para devolver "true"
+
+|| es el operador lógico "o" e indica que sólo debe cumplirse una de las dos condiciones que une para devolver true
+
+! es el operador lógico de "not", osea, negación. Este operador invierte el valor de verdad, provocando que la lógica que otorgaría un resultado negativo se convierte en positivo y viceversa, lo que arrojaría un resultado positivo se vuelve negativo. Usar dos "!" invierte dos veces el valor de verdad, dejandolo como estaba originalmente.

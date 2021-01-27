@@ -1,0 +1,6 @@
+Prototype
+
+Es la base de la que se crean todos los objetos. Las propiedades prototype de un objeto permite compartir a todos los objetos creados por la misma funcion constructura las funciones que se le declaren, por lo que lo que se agregue como objeto.prototype.nombreFuncion se le agregará a todos los objetos encadenados por este prototype.
+
+Constructors (de clases)
+Es una función utilizada dentro de las "class" de ES6, permite crear e iniciar un objeto que fue creado a partir de una clase previamente declarada, es muy útil para cuando se tienen que crear objetos nuevos que contengan propiedades de alguna clase existente pero que se les tenga que agregar propiedades o métodos extra

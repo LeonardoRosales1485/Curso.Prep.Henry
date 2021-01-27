@@ -1,0 +1,24 @@
+Objetos
+Son variables que contienen diferentes datos a los que se puede acceder como un Array, pero en vez de utilizar numeros se usan nombres (strings)
+
+Propiedades
+Las propiedades, o tambien llamadas "Keys" o claves, tienen asignado un valor que puede ser una variable, y estas variables pueden ser arrays, funciones u otros objetos.
+
+Métodos
+Las funciones dentro de un objeto se llaman métodos. Es solo una forma diferente de decirles.
+
+Bucle for…in
+Sirve para recorrer todas los pares de clave-valor de un objeto 
+
+Notación de puntos vs notación de corchetes
+Para acceder a las propiedades de un objeto, se debe escribir lo siguiente:
+
+testObjeto['nombrePropiedad']
+
+Lo que esta entre corchetes y comillas es el nombre de la propiedad. Esto se llama notaciòn de corchetes y es bastante útil utilizarlo ya que nos permite usar tanto el nombre de la propiedad entre comillas o pasarle una variable (sin las comillas) para buscar la propiedad que se quiere consultar.
+
+Tambien se puede escribir de la siguiente forma
+
+testObjeto.nombrePropiedad
+
+Que funciona igual que lo anterior, salvo que no se pueden pasar variables para buscar la propiedad.

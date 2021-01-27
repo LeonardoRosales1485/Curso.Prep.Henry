@@ -1,0 +1,21 @@
+Variables
+Es donde se guarda informacion para su utiización dentro de un programa de la computadora. Existen diferentes tipos de variables y estos contienen diferentes tipos de datos.
+
+Strings
+Son palabras. Para una computadora, son cadenas de caracteres y siempre van entre apóstrofes ó comillas.
+
+Funciones
+Son instrucciones dentro de un programa que siempre hacen lo mismo cuando son "llamadas". Sirven para evitar volver a escribir lineas de código que se necesitan varias veces. 
+--Argumentos
+No siempre es necesario, pero se puede llamar a una función y proporcionarle argumentos, es decir datos que nos interesan, para que los utilice.
+--Return
+Es una funcion de Javascript en la que devuelve lo que se le indica. Sirve para conocer el resultado de una operacion. También sirven para que la ejecución de una función se detenga. Sino se le indica nada a devolver, devolverá "undefined".
+
+If
+Nos permite agregarle lógica a un programa, esta funcion evalúa una condicion que se escriba para decidir si se ejecuta un código u otro.
+
+Valores booleanos
+Son valoraciones de lógica para determinar resultados de operaciones.
+True - Del inglés, "verdadero", usualmente se asigna esto a resultados con información u operaciones exitosas (o que al menos no reportan error)
+False - Del inglés, "Falso", usualmente se asigna esto a resultados sin información u operaciones que han arrojado un error
+
